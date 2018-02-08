@@ -6,11 +6,3 @@ end
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 display_rainbow(colors)
-
-#  puts "R: #{array[0]},"
-#  puts "O: #{array[1]},"
-#  puts "Y: #{array[2]},"
-#  puts "G: #{array[3]},"
-#  puts "B: #{array[4]},"
-#  puts "I: #{array[5]},"
-#  puts "V: #{array[6]}"
