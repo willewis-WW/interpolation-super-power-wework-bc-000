@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 def display_rainbow(array)
-  puts #the colors in the array argument
+  puts "The first letter in the alphabet is: #{array[0]}"
 end
 
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
